@@ -1,0 +1,43 @@
+﻿## Title: Welfare Epics
+
+## Notes: Filters non-usable items from vendors. (ALPHA)
+## Notes-enUS: Filters non-usable items from vendors. (ALPHA)
+
+## Author: Ackis
+## eMail: ackis AT shaw DOT ca
+## X-email: ackis AT shaw DOT ca
+
+## Author: Ackis
+## X-Author-Server: Illidan US
+## X-Author-Faction: Horde
+## eMail: ackis AT shaw DOT ca
+## X-email: ackis AT shaw DOT ca
+## X-License: MIT modified with notification clause
+## X-Donate: Send me UDE Point codes, a Murky Code, or donate a few bucks/hours at your local animal shelter.
+
+## Interface: 30000
+## Version: 0.12
+## X-Revision: $Rev: 79 $
+## X-Date: $Date: 2008-10-01 13:11:30 -0600 (Wed, 01 Oct 2008) $
+
+## X-Category: Raid
+## X-Localizations: enUS
+## X-Website: http://www.wowwiki.com/WelfareEpics/
+## X-Feedback: http://wow.curse.com/downloads/wow-addons/details/welfareepics.aspx
+## X-AceForum:
+## X-RelSite-Curse:
+## X-LoadOn-Slash: /WelfareEpics
+
+## Dependencies:
+## X-Embeds: Ace3, LibStub, CallbackHandler-1.0, LibItemBonus-2.0
+## OptionalDeps: Ace3, LibStub, CallbackHandler-1.0, LibItemBonus-2.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+## SavedVariables: WelfareEpicsDB
+
+embeds.xml
+
+Locals\enUS.lua
+
+WelfareEpics.lua
